@@ -8,53 +8,53 @@ Language: German
 $lang = array();
 
 // Days of the week
-$lang['monday'] = 'Monday';
-$lang['monday_abbr'] = 'Mon';
-$lang['tuesday'] = 'Tuesday';
-$lang['tuesday_abbr'] = 'Tue';
-$lang['wednesday'] = 'Wednesday';
-$lang['wednesday_abbr'] = 'Wed';
-$lang['thursday'] = 'Thursday';
-$lang['thursday_abbr'] = 'Thu';
-$lang['friday'] = 'Friday';
-$lang['friday_abbr'] = 'Fri';
-$lang['saturday'] = 'Saturday';
-$lang['saturday_abbr'] = 'Sat';
-$lang['sunday'] = 'Sunday';
-$lang['sunday_abbr'] = 'Sun';
+$lang['monday'] = 'Montag';
+$lang['monday_abbr'] = 'Mo';
+$lang['tuesday'] = 'Dienstag';
+$lang['tuesday_abbr'] = 'Di';
+$lang['wednesday'] = 'Mittwoch';
+$lang['wednesday_abbr'] = 'Mi';
+$lang['thursday'] = 'Donnerstag';
+$lang['thursday_abbr'] = 'Do';
+$lang['friday'] = 'Freitag';
+$lang['friday_abbr'] = 'Fr';
+$lang['saturday'] = 'Samstag';
+$lang['saturday_abbr'] = 'Sa';
+$lang['sunday'] = 'Sonntag';
+$lang['sunday_abbr'] = 'So';
 
 // Months of the year
-$lang['january'] = 'January';
-$lang['january_abbr'] = '';
-$lang['february'] = 'February';
+$lang['january'] = 'Januar';
+$lang['january_abbr'] = 'Jan';
+$lang['february'] = 'Februar';
 $lang['february_abbr'] = 'Feb';
-$lang['march'] = 'March';
-$lang['march_abbr'] = 'Mar';
+$lang['march'] = 'März';
+$lang['march_abbr'] = 'Mär';
 $lang['april'] = 'April';
 $lang['april_abbr'] = 'Apr';
-$lang['may'] = 'May';
-$lang['may_abbr'] = 'May';
-$lang['june'] = 'June';
+$lang['may'] = 'Mai';
+$lang['may_abbr'] = 'Mai';
+$lang['june'] = 'Juni';
 $lang['june_abbr'] = 'Jun';
-$lang['july'] = 'July';
+$lang['july'] = 'Juli';
 $lang['july_abbr'] = 'Jul';
 $lang['august'] = 'August';
 $lang['august_abbr'] = 'Aug';
 $lang['september'] = 'September';
 $lang['september_abbr'] = 'Sep';
-$lang['october'] = 'October';
-$lang['october_abbr'] = 'Oct';
+$lang['october'] = 'Oktober';
+$lang['october_abbr'] = 'Okt';
 $lang['november'] = 'November';
 $lang['november_abbr'] = 'Nov';
-$lang['december'] = 'December';
-$lang['december_abbr'] = 'Dec';
+$lang['december'] = 'Dezember';
+$lang['december_abbr'] = 'Dez';
 
 // Other terms used
-$lang['today'] = 'Today';
-$lang['tomorrow'] = 'Tomorrow';
-$lang['all_day'] = 'All day';
-$lang['calendar'] = 'Calendar';
-$lang['weather'] = 'Weather';
-$lang['todo'] = 'To-do';
-$lang['loading'] = 'Loading';
+$lang['today'] = 'Heute';
+$lang['tomorrow'] = 'Morgen';
+$lang['all_day'] = 'Ganztägig';
+$lang['calendar'] = 'Kalender';
+$lang['weather'] = 'Wetter';
+$lang['todo'] = 'ToDo';
+$lang['loading'] = 'lade';
 ?>
