@@ -1,61 +1,61 @@
 <?php
 /* 
 ------------------
-Language: English
+Language: Greek
 ------------------
 */
 
 $lang = array();
 
 // Days of the week
-$lang['monday'] = 'Monday';
-$lang['monday_abbr'] = 'Mon';
-$lang['tuesday'] = 'Tuesday';
-$lang['tuesday_abbr'] = 'Tue';
-$lang['wednesday'] = 'Wednesday';
-$lang['wednesday_abbr'] = 'Wed';
-$lang['thursday'] = 'Thursday';
-$lang['thursday_abbr'] = 'Thu';
-$lang['friday'] = 'Friday';
-$lang['friday_abbr'] = 'Fri';
-$lang['saturday'] = 'Saturday';
-$lang['saturday_abbr'] = 'Sat';
-$lang['sunday'] = 'Sunday';
-$lang['sunday_abbr'] = 'Sun';
+$lang['monday'] = 'Δευτέρα';
+$lang['monday_abbr'] = 'Δευ';
+$lang['tuesday'] = 'Τρίτη';
+$lang['tuesday_abbr'] = 'Τρί';
+$lang['wednesday'] = 'Τετάρτη';
+$lang['wednesday_abbr'] = 'Τετ';
+$lang['thursday'] = 'Πέμπτη';
+$lang['thursday_abbr'] = 'Πέμ';
+$lang['friday'] = 'Παρασκευή';
+$lang['friday_abbr'] = 'Παρ';
+$lang['saturday'] = 'Σάββατο';
+$lang['saturday_abbr'] = 'Σάβ';
+$lang['sunday'] = 'Κυριακή';
+$lang['sunday_abbr'] = 'Κυρ';
 
 // Months of the year
-$lang['january'] = 'January';
-$lang['january_abbr'] = '';
-$lang['february'] = 'February';
-$lang['february_abbr'] = 'Feb';
-$lang['march'] = 'March';
-$lang['march_abbr'] = 'Mar';
-$lang['april'] = 'April';
-$lang['april_abbr'] = 'Apr';
-$lang['may'] = 'May';
-$lang['may_abbr'] = 'May';
-$lang['june'] = 'June';
-$lang['june_abbr'] = 'Jun';
-$lang['july'] = 'July';
-$lang['july_abbr'] = 'Jul';
-$lang['august'] = 'August';
-$lang['august_abbr'] = 'Aug';
-$lang['september'] = 'September';
-$lang['september_abbr'] = 'Sep';
-$lang['october'] = 'October';
-$lang['october_abbr'] = 'Oct';
-$lang['november'] = 'November';
-$lang['november_abbr'] = 'Nov';
-$lang['december'] = 'December';
-$lang['december_abbr'] = 'Dec';
+$lang['january'] = 'Ιανουάριος';
+$lang['january_abbr'] = 'Ιαν';
+$lang['february'] = 'Φεβρουάριος';
+$lang['february_abbr'] = 'Φεβ';
+$lang['march'] = 'Μάρτιος';
+$lang['march_abbr'] = 'Μάρ';
+$lang['april'] = 'Απρίλιος';
+$lang['april_abbr'] = 'Απρ';
+$lang['may'] = 'Μάιος';
+$lang['may_abbr'] = 'Μάι';
+$lang['june'] = 'Ιούνιος';
+$lang['june_abbr'] = 'Ιούν';
+$lang['july'] = 'Ιούλιος';
+$lang['july_abbr'] = 'Ιούλ';
+$lang['august'] = 'Αύγουστος';
+$lang['august_abbr'] = 'Αύγ';
+$lang['september'] = 'Σεπτέμβριος';
+$lang['september_abbr'] = 'Σεπ';
+$lang['october'] = 'Οκτώμβριος';
+$lang['october_abbr'] = 'Οκτ';
+$lang['november'] = 'Νοέμβριος';
+$lang['november_abbr'] = 'Νοέ';
+$lang['december'] = 'Δεκέμβριος';
+$lang['december_abbr'] = 'Δεκ';
 
 // Other terms used
-$lang['today'] = 'Today';
-$lang['tomorrow'] = 'Tomorrow';
-$lang['all_day'] = 'All day';
-$lang['calendar'] = 'Calendar';
-$lang['weather'] = 'Weather';
-$lang['todo'] = 'To-do';
-$lang['loading'] = 'Loading';
+$lang['today'] = 'Σήμερα';
+$lang['tomorrow'] = 'Αύριο';
+$lang['all_day'] = 'Όλη την μέρα';
+$lang['calendar'] = 'Ημερολόγιο';
+$lang['weather'] = 'Καιρός';
+$lang['todo'] = 'Να κάνω';
+$lang['loading'] = 'Φορτώνει';
 
 ?>
